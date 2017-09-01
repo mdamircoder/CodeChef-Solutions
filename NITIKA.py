@@ -28,5 +28,5 @@ for _ in range(int(input())):
 	string_name.lower() converts all characters into Small letters of that string_name.
 	string_name.upper() converts all characters into Capital letters of that string_name.
 	
-	If st is a string, then st[begin:(end+1)] represents the substring of st from 'begin' index to end 'index', by default 'begin'=0 and 'end'=len(st)-1 .
+	If st is a string, then st[begin:(end+1)] represents the substring of st from 'begin' index to end 'index', by default 'begin'=0 and 'end'=len(st)-1.
 	'''
