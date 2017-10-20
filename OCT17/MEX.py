@@ -34,7 +34,7 @@ https://en.wikipedia.org/wiki/Mex_(mathematics)
 ---------------------------------------------------------------
 We can add maximum k integer values in that set, if necessary.
 So we start checking it from 0, as it's the minimum possible integer.
-We need to check the minimum integer value missing from that set.
+We need to check the minimum non-negative integer value missing from that set.
 ---------------------------------------------------------------
 We check whether any number (from 0, simultaneously) is absent in that set.
 If it is possible to add (k>=1) we add that missing value in that set, then
