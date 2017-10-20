@@ -43,5 +43,14 @@ Else we stop. (Any number is missing and k<1).
 That missing integer will be our required MEX value.
 ---------------------------------------------------------------
 Here instead of adding that missing value in that set, I have just
- decreased the value of k by 1, i.e. quivalent to adding that value.
+decreased the value of k by 1, i.e. quivalent to adding that value.
+---------------------------------------------------------------
+I have also sorted that set, so that the searching can be done efficiently.
+---------------------------------------------------------------
+I used a loop, starting from 0, its ending must be > max element of set.
+The loop variable checks the integer values to which we need to compare.
+---------------------------------------------------------------
+I also used an index j, which indicates which element of the sorted set is
+to be compared. If insertion is possible, then instead fo inserting, didn't
+update the value of j (index variable for elements of set)
 '''
