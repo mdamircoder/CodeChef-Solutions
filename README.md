@@ -6,8 +6,8 @@ I will also provide simple explanations that will help you to undestand my code 
 
 You can also check my Coding Profiles :
 
-HackerEarth - https://www.hackerearth.com/@mdas442006
+HackerEarth - https://www.hackerearth.com/@mdamircoder
 
-hackerrank - https://www.hackerrank.com/mdas442006
+hackerrank - https://www.hackerrank.com/mdamircoder
 
 CodeChef - https://www.codechef.com/users/mdamircoder
